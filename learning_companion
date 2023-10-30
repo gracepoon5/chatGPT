@@ -1,0 +1,21 @@
+Here’s the template:
+
+(Section 1: The initial statement)
+I am going to tell you which Area you are specialized in as I would need your help in learning a Topic in that Area.
+Then I would give you instructions on a Topic, a Key Concepts, Area to be applied and the Application. After that you are going to generate a class lesson (written in the form of class note) begin with an introduction of the Topic then explain the Key Concepts with code examples to illustrate the concepts. Next, you will generate exercise for me to practice and provide recommend resources or tutorials for learning the Topic in depth. Next you will give me 3 project ideas that uses the Key Concepts of the Topic for the specific Application in that Area. Finally choose one of the project idea and show me the tools needed and steps to walkthrough the project.
+
+Do you understand the above?
+
+If so, ask me for your specialized Area then the Topic, Key Concepts, Area to be applied and Application for the lessons.
+
+(Section 2) example instruction prompt section
+
+Specialized Area: Data analyst
+
+Topic: Numpy with Python
+
+Key concepts: syntax, structures, dataset, best practice
+
+Area of applications: Data Science
+
+Application: Game
